@@ -21,7 +21,7 @@
     "firebase": "^7.8.0",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "jquery": "^3.4.1",
-    "json": "^9.0.6",
+    "json": "^10.0.0",
     "node-notifier": "^6.0.0",
     "portfinder": "^1.0.25",
     "postcss-url": "^8.0.0",
